@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vaibhav18matere.github.io/csb-b66bz/static/css/main.90530c93.chunk.css",
+    "main.js": "https://vaibhav18matere.github.io/csb-b66bz/static/js/main.c258bb13.chunk.js",
+    "main.js.map": "https://vaibhav18matere.github.io/csb-b66bz/static/js/main.c258bb13.chunk.js.map",
+    "runtime-main.js": "https://vaibhav18matere.github.io/csb-b66bz/static/js/runtime-main.192e284e.js",
+    "runtime-main.js.map": "https://vaibhav18matere.github.io/csb-b66bz/static/js/runtime-main.192e284e.js.map",
+    "static/js/2.434c2efe.chunk.js": "https://vaibhav18matere.github.io/csb-b66bz/static/js/2.434c2efe.chunk.js",
+    "static/js/2.434c2efe.chunk.js.map": "https://vaibhav18matere.github.io/csb-b66bz/static/js/2.434c2efe.chunk.js.map",
+    "index.html": "https://vaibhav18matere.github.io/csb-b66bz/index.html",
+    "static/css/main.90530c93.chunk.css.map": "https://vaibhav18matere.github.io/csb-b66bz/static/css/main.90530c93.chunk.css.map",
+    "static/js/2.434c2efe.chunk.js.LICENSE.txt": "https://vaibhav18matere.github.io/csb-b66bz/static/js/2.434c2efe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.192e284e.js",
+    "static/js/2.434c2efe.chunk.js",
+    "static/css/main.90530c93.chunk.css",
+    "static/js/main.c258bb13.chunk.js"
+  ]
+}
